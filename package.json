@@ -1,0 +1,17 @@
+{
+  "name": "project-structure",
+  "version": "0.0.1",
+  "description": "Project Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha unit.js",
+    "start": "node db.js"
+  },
+  "author": "Nafas Ameri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
